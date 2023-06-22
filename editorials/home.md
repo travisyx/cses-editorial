@@ -1,1 +1,1 @@
-Check out the template file [here](template.cpp)!
+Check out the template file [here](../template.cpp)!
