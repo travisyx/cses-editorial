@@ -1,7 +1,7 @@
 # cses-editorial
 An editorial for the CSES Problem Set. The goal for this repository is to provide easy to understand solutions such that someone just starting out in competitive programming (like myself) would understand. Note that the code or editorials may not be completely optimal (or even correct, I'll try my best), but any code will have been accepted.
 
-Check out the problem set [here](www.cses.fi/problemset) and the working editorials [here](editorials/home.md).
+Check out the problem set [here](www.cses.fi/problemset) and the working editorials [here](editorial/home.md).
 
 Sources:
 - [CP Handbook](https://www.cses.fi/book/book.pdf)
